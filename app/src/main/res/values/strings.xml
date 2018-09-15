@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Jot this down</string>
+    <string name="delete_all_notes">Delete all memos</string>
+    <string name="are_you_sure">Are you sure you want to delete all of these memos?</string>
+    <string name="all_deleted">All current memos have been deleted.</string>
+    <string name="title_activity_editor">Add Memo</string>
+    <string name="new_note">New Memo</string>
+    <string name="note_updater">Memo Updated</string>
+    <string name="edit_note">Edit Memo</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Memo Deleted</string>
+    <string name="type_your_memo">Type your memo or tap mic to use voice input.</string>
+    <string name="note">Note</string>
+    <string name="title_activity_main2">About</string>
+    <string name="curiousaps_gmail_com">curiousaps@gmail.com</string>
+    <string name="version">Version 1.1.0 Release 3.29.17</string>
+    <string name="phone_number">903.372.0127</string>
+    <string name="created">Created By Enoch for android</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="logo">Logo</string>
+    <string name="action_save">save</string>
+    <string name="add_memo">Add a new Memo</string>
+</resources>
